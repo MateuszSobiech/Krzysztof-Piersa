@@ -1,4 +1,4 @@
-# piersa
+# Krzysztof Piersa Website
 
 ## Project setup
 ```
